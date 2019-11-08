@@ -1,7 +1,7 @@
 ### TopTier Test App
 
 Implemented two screens for the required Sketch.
-ViewPager is used as a container for screens (called Step 10 and Step 1).
+ViewPager is used as a container for screens (Step 10 and Step 11).
 Step 10 screen just has static data.
 Step 11 screen displays the data from the uinames.com API: ​ https://github.com/thm/uinames.
 

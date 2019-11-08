@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Top Tier Test</string>
+
+    <string name="step_ten_title">What result are you looking for?</string>
+    <string name="step_eleven_title">How long do you like to workout for?</string>
+    <string name="text_bottom">You can always adjust later.</string>
+
+    <!--  Step ten data  -->
+    <string name="item_1_title">Get Bigger</string>
+    <string name="item_1_text">Looking to gain size &amp; mass</string>
+    <string name="item_2_title">Get Shedded</string>
+    <string name="item_2_text">Looking to get lean &amp; cut</string>
+    <string name="item_3_title">Lose Weight</string>
+    <string name="item_3_text">Looking to lose weight &amp; be strong</string>
+
+    <!--  TODO impl plurars  -->
+    <string name="years">%1$d years</string>
+
+    <string name="error_message">Something went wrong…</string>
+
+</resources>

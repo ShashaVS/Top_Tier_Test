@@ -11,4 +11,4 @@ Step 11 screen displays the data from the uinames.com API: ​ https://github.co
 - Android Architecture Components:  LiveData, ViewModel,  Navigation;
 -  Libraries: Dagger2, RxJava2, Retrofit2.
 
-<p align="center"><img src="screenshots/device_screen.png" width="270" vspace="20" hspace="5" ></p>
+<p align="center"><img src="screenshots/device_screen.png" width="320" vspace="20" hspace="5" ></p>
